@@ -1,0 +1,10 @@
+body {
+  text-decoration: dashed;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background-color: #f5f5f5;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
