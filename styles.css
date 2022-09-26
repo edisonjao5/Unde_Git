@@ -15,3 +15,11 @@ h3 {
   text-align: center;
   color: #761e1e;
 }
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #aeb14a;
+  background-color: rgb(44, 40, 40);
+}
