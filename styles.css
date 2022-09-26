@@ -8,3 +8,10 @@ body {
   margin: 0;
   padding: 0;
 }
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #761e1e;
+}
